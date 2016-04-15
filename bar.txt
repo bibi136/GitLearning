@@ -4,3 +4,6 @@ i have changed this file.
 add a tag
 add master <fix is1> change
 more code
+a new line
+new new line
+add code in develop mode
