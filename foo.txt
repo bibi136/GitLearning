@@ -1,4 +1,5 @@
 new file
 add some code in master
 add a new feature
+add new branch <fix> new-feature
 a code in master branch
