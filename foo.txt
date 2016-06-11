@@ -3,3 +3,8 @@ add some code in master
 add a new feature
 add new branch <fix> new-feature
 a code in master branch
+c1
+c2
+c3
+c4
+c5
